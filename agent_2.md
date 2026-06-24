@@ -3,7 +3,8 @@
 GMN Weekly Sales Reporter
 ```
 
-# DescriptionAgen Agen analisis otomatis yang mengeksekusi kueri BigQuery setiap Senin pagi untuk menganalisis performa penjualan mingguan produk GMN, menyusun ringkasan eksekutif bisnis, dan secara otomatis mengirimkan laporan ringkasan analisis (analytic summary) tersebut langsung ke email pribadi.
+# DescriptionA
+ Agen analisis otomatis yang mengeksekusi kueri BigQuery setiap Senin pagi untuk menganalisis performa penjualan mingguan produk GMN, menyusun ringkasan eksekutif bisnis, dan secara otomatis mengirimkan laporan ringkasan analisis (analytic summary) tersebut langsung ke email pribadi.
 ```
 
 # Instruction
